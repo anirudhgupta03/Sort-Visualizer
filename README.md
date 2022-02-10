@@ -19,3 +19,7 @@
 * Selection Sort <br/>
 
 ![](https://media.giphy.com/media/NThkP4Lck8QHBvYn7I/giphy.gif)
+
+* Insertion Sort
+
+![](https://media.giphy.com/media/ekdvf3zqj9lNq0C8tb/giphy.gif)
