@@ -27,3 +27,7 @@
 * Merge Sort
 
 ![](https://media.giphy.com/media/WTxL9v8iMArfAnyRFq/giphy.gif)
+
+* Quick Sort
+
+![](https://media.giphy.com/media/vEZojjj4eWMcehLKrV/giphy.gif)
