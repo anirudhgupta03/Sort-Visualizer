@@ -11,6 +11,6 @@
   * Merge Sort
   * Quick Sort
  
- ## Demo
- * Bubble Sort
- ![](https://media.giphy.com/media/11x9AvHRcyB1Fm0HSn/giphy.gif)
+## Demo
+* Bubble Sort
+![](https://media.giphy.com/media/11x9AvHRcyB1Fm0HSn/giphy.gif)
