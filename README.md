@@ -23,3 +23,7 @@
 * Insertion Sort
 
 ![](https://media.giphy.com/media/ekdvf3zqj9lNq0C8tb/giphy.gif)
+
+* Merge Sort
+
+![](https://media.giphy.com/media/WTxL9v8iMArfAnyRFq/giphy.gif)
