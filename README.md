@@ -13,4 +13,9 @@
  
 ## Demo
 * Bubble Sort <br/>
+* 
 ![](https://media.giphy.com/media/11x9AvHRcyB1Fm0HSn/giphy.gif)
+
+* Selection Sort <br/>
+* 
+![](https://media.giphy.com/media/NThkP4Lck8QHBvYn7I/giphy.gif)
